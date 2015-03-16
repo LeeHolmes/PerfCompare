@@ -1,6 +1,3 @@
-# PerfCompare
-Tool for micro performance benchmarks of C# snippets
-
 About PerfCompare
 -----------------
 PerfCompare is designed to help you micro-benchmark small snippets of C# code.
@@ -68,3 +65,4 @@ Contact Information
 -------------------
 Do you have questions?  Comments?  Bugs?  Feature requests?
 If so, email me at perfcompare@leeholmes.com.
+
